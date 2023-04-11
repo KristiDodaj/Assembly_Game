@@ -26,10 +26,10 @@
 # 6. Moving Objects (The 3 Pick Ups are also moving objects)
 #
 # Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
+# - https://youtu.be/LmhGR3P6qjg
 #
 # Are you OK with us sharing the video with people outside course staff?
-# - yes / no / yes, and please share this project github link as well!
+# - yes: https://github.com/KristiDodaj/Assembly_Game.git
 #
 # Any additional information that the TA needs to know:
 # - NOTE that the pick ups are designed so you can go through them to make it harder to catch. You can
