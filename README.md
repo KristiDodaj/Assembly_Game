@@ -10,4 +10,4 @@ To get started, you will need to have an assembler and emulator installed on you
 
 Check out this video demo of the game in action!
 
-[![Assembly Game Project Demo](https://img.youtube.com/watch?v=LmhGR3P6qjg/0.jpg)](https://www.youtube.com/watch?v=LmhGR3P6qjg)
+[![Assembly Game Project Demo](https://i9.ytimg.com/vi_webp/LmhGR3P6qjg/mq3.webp?sqp=CPCs5asG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWiheMA8=&rs=AOn4CLB2gLS_fORfewWhAA8_pR-bWLnrSA)](https://www.youtube.com/watch?v=LmhGR3P6qjg)
